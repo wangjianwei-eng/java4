@@ -52,7 +52,7 @@ try {// 异常处理
 		}
 ```
 # 六、运行结果
-![1](https://github.com/wangjianwei-eng/java4/blob/main/src/%E6%8D%95%E8%8E%B7.JPG)
-![2](https://github.com/wangjianwei-eng/java4/blob/main/src/%E6%8D%95%E8%8E%B72.JPG)
-![3](https://github.com/wangjianwei-eng/java4/blob/main/src/%E6%8D%95%E8%8E%B73.JPG)
+![1](https://github.com/wangjianwei-eng/java4/blob/main/src/%E6%8D%95%E8%8E%B7.JPG)<br/>
+![2](https://github.com/wangjianwei-eng/java4/blob/main/src/%E6%8D%95%E8%8E%B72.JPG)<br/>
+![3](https://github.com/wangjianwei-eng/java4/blob/main/src/%E6%8D%95%E8%8E%B73.JPG)<br/>
 # 七、实验感想
