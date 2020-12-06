@@ -17,7 +17,22 @@
 * 3.输入的文本来源于文本文件B读取，把处理好的结果写入到文本文件A
 * 4.考虑操作中可能出现的异常，在程序中设计异常处理程序
 # 四、实验过程
-* 1.创建
+* 1.设计学生类Student（属性：姓名、性别、年龄、专业、班级）
+String name 姓名
+String gender 性别
+int age 年龄
+String Major 专业
+String banji 班级
+2.根据输入情况，在程序中做异常处理类Utils (分别作了输入字符型数据的异常处理、输入浮点型数据的异常处理和输入整型数据的异常处理)
+3.创建处理工具类FliesUtil
+getFileName 获取文件名
+fileIsOk 目标文件是否有效且可读
+touch 创建文件
+remove 移除文件
+recreate 重新创建文件
+readFile 读取文件到字符串
+writeFile 写入行数组到文件
+4.编写测试类Test，主程序程序入口
 # 五、核心代码
 ```java
 try {// 异常处理
